@@ -4,4 +4,4 @@ fn main() {
 
   // ?? no TRUE, FALSE, 1, 0
 }
-nida
+nida.
