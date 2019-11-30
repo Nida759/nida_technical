@@ -1,0 +1,6 @@
+fn main() {
+  let x = 'x';
+  let y = '??';
+
+// ?? no "x", only single quotes
+}
